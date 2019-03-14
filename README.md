@@ -13,7 +13,7 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 > - IDE: [Android Studio](https://developer.android.com/studio/index.html)
 > - Linguagem: [Kotlin](http://kotlinlang.org/docs/reference)
 
-\# | Data | Projeto | Obsevações
+\# | Data | Projeto | Conteúdo
 --- | --- | --- | ---
 
 
