@@ -16,6 +16,7 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 \# | Data | Projeto | Conteúdo
 --- | --- | --- | ---
 01 | 22/03/2019 | O Somador | MVC no Android
+02 | 28/03/2019 | SomadorOutraAbordagem | Layouts (Linear, Grid e Table).
 
 
 ## **iOS**
