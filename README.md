@@ -23,6 +23,8 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 06 | 11/04/2019 | O Listador | Intent Filter
 07 | 11/04/2019 | O Buscador do Listador | Intent Filter
 08 | 12/04/2019 | O Logador | Intent Filter
+09 | 24/04/2019 | O Chamador do Logador | Intent Filter
+10 | 24/04/2019 | O Carregador | BroadcastReceiver
 
 ## **iOS**
 Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de aula.
